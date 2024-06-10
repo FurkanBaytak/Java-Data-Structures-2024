@@ -20,7 +20,7 @@ This repository contains the solutions to the Data Structures Spring Semester Pr
 **Description:**
 This program builds a Skip List Data Structure, allowing efficient search, insert, and retrieval operations. The skip list is compared with a standard singly linked list for efficiency.
 
-![Question 1](./Questions/Question1.png)
+![Question 1](./Questions/Question%201.png)
 
 **Usage:**
 1. Create a skip list and insert elements.
@@ -45,7 +45,7 @@ System.out.println("Found 20: " + found);
 **Description:**
 This program merges two sorted lists into a single sorted list, ensuring no duplicate elements. The resulting list is the union of the input lists.
 
-![Question 2](./Questions/Question2.png)
+![Question 2](./Questions/Question%202.png)
 
 **Usage:**
 1. Create two sorted lists.
@@ -68,7 +68,7 @@ System.out.println("Merged List: " + mergedList);
 **Description:**
 This program reads words from a text file (`words.txt`) and inserts them into a hash table. It calculates the number of distinct words and identifies the most frequently occurring word.
 
-![Question 3](./Questions/Question3.png)
+![Question 3](./Questions/Question%203.png)
 
 **Usage:**
 1. Read words from the text file.
@@ -91,7 +91,7 @@ wordHashTable.printDistinctWordCount();
 **Description:**
 This program evaluates mathematical expressions input by the user. It supports infix, postfix, or prefix notation and uses either a tree or stack for the evaluation.
 
-![Question 4](./Questions/Question4.png)
+![Question 4](./Questions/Question%204.png)
 
 **Usage:**
 1. Input a mathematical expression.
